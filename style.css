@@ -1,0 +1,53 @@
+img {
+    width: 250px;
+    height: 150px;
+    margin-left: 170px;
+}
+
+p {
+    text-align: center;
+    background-color: blue;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.pen {
+    background-color: rgb(229, 255, 0);
+    color: red;
+    font-size: 20px;
+}
+
+.pvppobf {
+    font-size: 20px;
+    background-color: aquamarine;
+    color: burlywood;
+}
+
+.pan {
+    font-size: 20px;
+    background-color: black;
+    color: brown;
+}
+
+.popon {
+    font-size: 20px;
+    background-color: darkblue;
+    color: coral;
+}
+
+.panos {
+    background-color: blueviolet;
+    color: aqua;
+    font-size: 20px;
+}
+    
+footer {
+    background-color: blue;
+}
+
+
+
+ul {
+    background-color: blue;
+    color: red;
+}
